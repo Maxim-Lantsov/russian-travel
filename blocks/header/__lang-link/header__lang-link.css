@@ -12,9 +12,10 @@
     border-bottom: 1px solid;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 568px) {
     .header__lang-link {
-        font-size: 22px;
-        line-height: 20px;
+      font-size: 18px;
+      line-height: 20px;
     }
-}
+  }
+  
