@@ -1,0 +1,15 @@
+.website__link {
+    margin: 12px 0 0 0;
+    max-width: 456px;
+    max-height: 22px;
+    font-family: 'inter';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #fff;
+}
+
+.website__link:hover {
+    opacity: .5;
+    transition: linear .2s;
+  }
