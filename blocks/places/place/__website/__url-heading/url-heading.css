@@ -1,8 +1,7 @@
 .website__url-heading {
     margin: 0;
     max-width: 456px;
-    max-height: 12px;
-    font-family: 'inter';
+    font-family: 'inter', 'Arial' , 'sans-serif';
     font-weight: 400;
     font-size: 12px;
     line-height: 12px;
