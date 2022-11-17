@@ -8,8 +8,8 @@
     color: #fff;
 }
 
-.header__lang-link_active {
-    border-bottom: 1px solid;
+.header__lang-link:hover {
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 568px) {
@@ -18,4 +18,3 @@
       line-height: 20px;
     }
   }
-  
